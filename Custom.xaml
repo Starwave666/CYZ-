@@ -674,6 +674,7 @@
             Text="网速测试" EventData="https://www.speedtest.cn/" ToolTip="网速PK!" />
         <local:Mybutton Style="{StaticResource WebSites}" ColorType="Highlight"
             Text="ipv6测试" EventData="test-ipv6.com" ToolTip="你有ipv6吗？" />
+    </WrapPanel>
 </local:MyCard>
     
 
